@@ -1,0 +1,1 @@
+This is git gnore file which i have to be created 
